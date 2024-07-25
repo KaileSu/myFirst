@@ -1,4 +1,4 @@
-console.log("Hello world");
+console.log("Hello world 2024");
 function sum(a,b){
     return a+b;
 }
